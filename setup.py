@@ -17,7 +17,7 @@ setup(
     name='chainermn',
     version='1.3.0',
     description='ChainerMN: Multi-node distributed training with Chainer',
-    author='Takuya Akiba',
+    author='Takuya Akib345678a',
     author_email='akiba@preferred.jp',
     packages=find_packages(),
     install_requires=install_requires,
